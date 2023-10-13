@@ -1,5 +1,5 @@
-const num1Input = document.getElementById("num1");
-const num2Input = document.getElementById("num2");
+const num1Input = document.getElementById("firstnum");
+const num2Input = document.getElementById("secondnum");
 const addButton = document.getElementById("add");
 const subtractButton = document.getElementById("subtract");
 const multiplyButton = document.getElementById("multiply");
